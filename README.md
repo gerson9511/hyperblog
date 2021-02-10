@@ -11,6 +11,11 @@ En este curso vemos de todo
 *Flujo de trabajo en GIthub
 *Trucos muy locos del profesor
 *Creado por Gerson9511 
+<<<<<<< HEAD
+=======
+*Incluye ejemplos en Windows, Linux y Mac
+*Disponible para todas las edades
+>>>>>>> readme-mejorado
 **Este Readme.md es un chiste**
 Sigueme en facebook 
 https://www.facebook.com/jasan.rhu.3/
